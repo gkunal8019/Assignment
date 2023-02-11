@@ -1,4 +1,48 @@
-1
-2
-3
-4
+4 Variables
+Definition of each of the variables given in the "Text Analysis.docx" file.
+Look for these variables in the analysis document (Text Analysis.docx):
+1. POSITIVE SCORE
+2. NEGATIVE SCORE
+3. POLARITY SCORE
+4. SUBJECTIVITY SCORE
+5. AVG SENTENCE LENGTH
+6. PERCENTAGE OF COMPLEX WORDS
+7. FOG INDEX
+8. AVG NUMBER OF WORDS PER SENTENCE
+9. COMPLEX WORD COUNT
+10. WORD COUNT
+11. SYLLABLE PER WORD
+12. PERSONAL PRONOUNS
+13. AVG WORD LENGTH
+
+5 Output Data Structure
+Output Variables: 
+1. All input variables in "Input.xlsx"
+2. POSITIVE SCORE
+3. NEGATIVE SCORE
+4. POLARITY SCORE
+5. SUBJECTIVITY SCORE
+6. AVG SENTENCE LENGTH
+7. PERCENTAGE OF COMPLEX WORDS
+8. FOG INDEX
+9. AVG NUMBER OF WORDS PER SENTENCE
+10. COMPLEX WORD COUNT
+11. WORD COUNT
+12. SYLLABLE PER WORD
+13. PERSONAL PRONOUNS
+14. AVG WORD LENGTH
+Checkout output data structure spreadsheet for the format of your output, i.e. "Output Data Structure.xlsx".
+
+6 Timeline
+6 days, sooner is better. 
+
+7 Where to submit
+To submit your solution, please fill this google sheet and upload your article to google drive, and share the drive url in the google sheet: https://forms.gle/nvWAgrCBdq1JkKou8 
+
+Make sure your submission contains:
+a) .py file
+b) output in csv or excel file as given in the output structure
+c) instructions
+
+Questions?
+Text message on Skype id "ajay_1229" if you have any questions. 
